@@ -1,6 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
-import { ArrowDown, Sparkles, Github, Linkedin, Mail } from "lucide-react";
+import { ArrowDown, Sparkles, Linkedin, Mail } from "lucide-react";
 
 const floatVariants = {
   animate: {
