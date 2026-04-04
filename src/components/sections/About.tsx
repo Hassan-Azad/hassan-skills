@@ -51,9 +51,9 @@ export default function About() {
 
           <div className="space-y-5 text-slate-400 leading-relaxed">
             <p>
-              Over the past two years, I've worked on everything from
+              Over the past two years, I&apos;ve worked on everything from
               fast-loading marketing websites to complex AI-powered platforms.
-              Whether it's a startup or an established business, I bring the
+              Whether it&apos;s a startup or an established business, I bring the
               same focus: clean code, great design, and real results.
             </p>
             <p>
